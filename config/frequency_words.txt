@@ -1,33 +1,47 @@
 DeepSeek
 
 通义千问
+
 QWEN
 
 VisualStudio
+
 ollama
+
 Qwen-coder
 
 特斯拉
+
 马斯克
+
 Tesla
+
 SpaceX
 
 微软
+
 Microsoft
 
 英伟达
+
 NVIDIA
+
 黄仁勋
 
 AMD
+
 Intel
 
 谷歌
+
 google
+
 gemini
 
 chatgpt
+
 openai
+
 sora
 
 claude
@@ -36,7 +50,9 @@ iphone
 ipad
 mac
 ios
+
 vivo
+
 
 ai
 !gai
@@ -49,11 +65,19 @@ ai
 核能
 
 C#
+
 成都
+
 眉山
+
 乐山
+
 西昌
+
 自贡
+
 资阳
+
 简阳
+
 金牛区
